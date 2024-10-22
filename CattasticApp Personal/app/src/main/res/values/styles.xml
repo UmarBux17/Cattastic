@@ -1,0 +1,30 @@
+<resources>
+    <!-- Base Light theme for the app -->
+    <style name="Theme_App_Light" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- White background and black text for Light mode -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorSecondary">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnBackground">@color/black</item>
+        <item name="android:windowBackground">@color/white</item>
+
+        <!-- Customize button styles -->
+        <item name="buttonStyle">@style/MyButtonStyle</item>
+
+        <!-- Customize text appearance -->
+        <item name="android:textAppearance">@style/MyTextAppearance</item>
+    </style>
+
+    <!-- Light theme button customization -->
+    <style name="MyButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/black</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <!-- Light theme text appearance -->
+    <style name="MyTextAppearance" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>
