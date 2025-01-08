@@ -65,18 +65,17 @@ The Shelter Map allows users to locate nearby cat shelters using OSMDroid, an op
 Include screenshots for the following features:
 1. Login Screen: Displaying the options for Google Sign-In, email/password, and biometric login.
 
-![cat login page](https://github.com/user-attachments/assets/fc1683d3-9e69-49eb-944c-2dd4b595a77e)
+![playstore login](https://github.com/user-attachments/assets/092722f3-3343-4912-a24f-af65a1c0724f)
+
 
 2. Cat Breed Explorer: Showing a list of cat breeds and their details.
-
-![cat breeds page](https://github.com/user-attachments/assets/526ef1b8-33e7-4c24-94fa-5cf258c13279)
-
-![cat breed detail page](https://github.com/user-attachments/assets/562ebd4f-27b4-487b-a192-6b182447e524)
-
+![playstore cat breeds](https://github.com/user-attachments/assets/11d5002f-d92c-4f90-8586-4c86615d1138)
+![playstore cat details](https://github.com/user-attachments/assets/6ca9cdfa-f203-4726-bea1-7e88e8b58196)
 
 3. Shelter Map: OSMDroid map with shelter locations marked.
 
-![cat maps page](https://github.com/user-attachments/assets/60ebaa22-c1b2-46f7-ab06-0be23cb9b1b0)
+![playstore maps](https://github.com/user-attachments/assets/0fd90d02-20f2-45bd-a5c5-a44cf0b341b6)
+
 
 
 4. Theme Switcher: Toggle between light and dark modes.
