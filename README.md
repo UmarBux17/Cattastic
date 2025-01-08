@@ -1,4 +1,5 @@
-# Cattastic
+Cattastic
+
  Table of Contents
 1. Overview
 2. Features
