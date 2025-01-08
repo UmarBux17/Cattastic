@@ -163,8 +163,7 @@ The project follows a version-controlled development process using GitHub:
 
 --------------------------------------------------------------------------------------------------------------
 
- Contributing
-Here are the references in Harvard style:
+ Contributing:
 1.	Android Developers. (2024). Security | Jetpack. Available at: https://developer.android.com/jetpack/androidx/releases/security [Accessed 25 Sep. 2024].
 2.	YouTube. (2024). Android Push Notification Using Firebase Cloud Messaging in Kotlin | GeeksforGeeks. Available at: https://www.youtube.com/watch?v=2xoJi-ZHmNI [Accessed 26 Sep. 2024].
 3.	YouTube. (2024). Add Multilingual support (Multiple Languages) to your Android App. Available at: https://www.youtube.com/watch?v=ObgmK3BywKI [Accessed 27 Sep. 2024].
