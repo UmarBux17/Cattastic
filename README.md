@@ -79,17 +79,18 @@ Include screenshots for the following features:
 
 
 4. Theme Switcher: Toggle between light and dark modes.
+![cat light mode](https://github.com/user-attachments/assets/18e93975-6c1c-4c30-bd7a-9e96f76a2ee8)
 
-![cat light mode](https://github.com/user-attachments/assets/db6db2ec-4f98-4a8e-a287-b5e578bbe9d0)
+![cat dark mode](https://github.com/user-attachments/assets/5c566f95-64b9-4726-926d-3d173e390d07)
 
-![cat dark mode](https://github.com/user-attachments/assets/1275c1a4-5b63-443a-907e-4ce3d157a7cd)
 
 
 5. Language Switcher: User selecting between English and Afrikaans.
+![cat english](https://github.com/user-attachments/assets/f3fb4906-81d0-4e06-998e-df5fae3ac46e)
 
-![cat english](https://github.com/user-attachments/assets/b7d29830-d824-4561-acf1-33d2894bc91c)
+![cat afrikaans](https://github.com/user-attachments/assets/9a8fc77c-bb29-4276-830c-6b6857e3066f)
 
-![cat afrikaans](https://github.com/user-attachments/assets/b000ef03-a381-4942-9b04-41339f710221)
+
 
 --------------------------------------------------------------------------------------------------------------
 
